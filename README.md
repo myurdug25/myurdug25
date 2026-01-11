@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Murat YURDUGÜL</h1>
-<h3 align="center">I am a third year software engineering student at Erzurum Atatürk University and I am working on desktop application and oop programming.</h3>
+<h3 align="center">I am a fourth-year Software Engineering student at Erzurum Atatürk University, focusing on artificial intelligence, machine learning, and data-driven systems.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
